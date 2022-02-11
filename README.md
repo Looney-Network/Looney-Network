@@ -25,13 +25,10 @@ In no way is this intended to damage anyone or anything.
 DM for credit/removal (looney.network.contact@gmail.com)
 PLEASE DO NOT SNITCH!
 
-*PLease also note: As a shortcut some code has been used from either other projects of mine or borrowed from other open sourced, public domain or MIT licensed projects.
+*Please also note: As a shortcut some code has been used from either other projects of mine or borrowed from other open sourced, public domain or MIT licensed projects.
 *Looney Network is currently in beta. Please feel free to contact me with comments, questions or concerns.
 
 Home Page: https://looney-network.github.io/TV/
-
-
-
 
                 /|         ,                
               ,///        /|
