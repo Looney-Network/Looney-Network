@@ -30,6 +30,9 @@ PLEASE DO NOT SNITCH!
 
 Home Page: https://looney-network.github.io/TV/
 
+
+Download Page: https://looney-network.github.io/app/download/getlooney/
+
                 /|         ,                
               ,///        /|
              // //     ,///
