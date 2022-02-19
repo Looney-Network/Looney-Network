@@ -2,7 +2,7 @@
 - 🤫 This is a private-ish repo. 😇
 - 👀 Nothing to see here 😈
 
-Watch childhood classics! The aim of this project is to provide the safest, ad-free, easy to use streaming service for free. I strongly feel ads not only are unsafe, and intrusive but make any product unusable. Many ads and pop ups contain pornography and or malware on alternative services. This is why Looney Network will always be 100% ad-free. 
+Watch childhood classics! The aim of this project is to provide the safest, ad-free, easy to use streaming service for free. I strongly feel ads not only are unsafe, and intrusive but make any product unusable. Many ads and pop ups contain pornography and or malware on alternative sources of free media. This is why Looney Network will always be 100% ad-free. 
 
 All media is retrieved from safe trusted sources. To ensure end user safety all media is scanned for malware before it is uploaded. As an aditional security measure, all files are hosted via Google Drive. Before being able to download any content, Google automatically scans for malware and will block any harmful downloads.
 
